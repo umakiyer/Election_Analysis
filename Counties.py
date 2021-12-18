@@ -1,0 +1,10 @@
+counties=["Arpahoe","Denver","Jefferson"]
+print(counties[1])
+print(len(counties))
+print(counties[0:2])
+counties.append("El Paso")
+print(counties)
+counties.insert(0,"New Jersey")
+print(counties)
+print(counties.pop(0))
+print(counties)
