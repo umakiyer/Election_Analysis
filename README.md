@@ -15,15 +15,16 @@ congressional election
 
 ## Summary
 The analysis of the eletion show that:
-- There were --- votes cast in the election
+- There were 369,711 votes cast in the election
 - The candidates were :
-   -
-   -
-   -
+   -Charles Casper Stockham
+   -Diana DeGette
+   -Raymon Anthony Doane
+   
 - The candidate results were:
-  - received % of the vote and -- number of votes.
-  - received % of the vote and -- number of votes.
-  - received % of the vote and -- number of votes.
-- The winner if teh election was
-   --- , who received % of vote and -- number of votes
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,806 number of votes.
+- The winner if the election was
+   Diana DeGette , who received 73.8% of vote and 272,892 number of votes
    
