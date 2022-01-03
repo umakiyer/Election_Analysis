@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election Audit
 A Colorado Board of Elections employee has given you the follwing tasks to complete the election audit of a recent local 
@@ -10,15 +10,15 @@ congressional election
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
--Date Source: elction_results.csv
-- software: Python 3.6.1, Visual Studio code 1.38.1
+Date Source: elction_results.csv<br />
+Software: Python 3.6.1, Visual Studio code 1.38.1
 
 ## Election-Audit Results
-The analysis of the eletion show that:
+The analysis of the election shows that:
 - **There were 369,711 votes cast in the election**
 
 - The number of  votes by county in the precinct:
-   - In Jefferson County 10.5% of the vote were cast and 85,213 number of votes.<br />
+   - In Jefferson County 10.5% of the vote were cast (85,213 votes were cast).<br />
    - In Denver county 82.8% of the vote were cast and 272,892,number of votes.<br />
    - In Arapahoe county 3.1% of the vote were cast and 11,606 number of votes.<br /><br />
 - The candidates were :<br />
