@@ -36,8 +36,9 @@ The analysis of the election shows that:
 **Largest county turnover was Denver County with 82.8%, dor a total of 306,055 .<br />**  
  
 ## Election Summary
-By writing similar code to count the candidate votes , we were able to determine the turnover & percentage for each county. 
-We can extrapolate the same code to state level election also. 
+     -The same script can be used for any number of candidates /counties .
+     - We can extrapolate the same code to state level election also. 
+     - We can count the votes of different candidate in the same county.
  
 ## Resources
 Date Source: elction_results.csv<br />
