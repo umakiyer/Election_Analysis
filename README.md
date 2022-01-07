@@ -34,6 +34,7 @@ The analysis of the election shows that:
    - In Denver county 82.8% of the vote were cast (306,055 of votes).<br />
    - In Arapahoe county 3.1% of the vote were cast (24,801 of votes).<br /><br />
 **Largest county turnover was Denver County with 82.8%, dor a total of 306,055 .<br />**   
+![Election Result]()
  
 ## Election Summary
 By writing similar code to count the candidate votes , we were able to determine the turnover & percentage for each county. 
