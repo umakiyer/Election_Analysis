@@ -16,15 +16,16 @@ A Colorado Board of Elections employee has assigned the follwing tasks to comple
 The analysis of the election shows that:
 - **There were 369,711 votes cast in the election**
 
-- The candidates were :<br />
-   -Charles Casper Stockham stood from Jefferson county<br />
-   -Diana DeGette stood from Denver county<br />
-   -Raymon Anthony Doane stood from Arapahoe county <br />
+ The candidates were:
+   - Charles Casper Stockham stood from Jefferson county.<br />
+   - Diana DeGette from Denver county.<br />
+   - Raymon Anthony Doane stood from Arapahoe county .<br />
    
-- The candidate results were:
-  - Charles Casper Stockham received 23.0% of the vote for a total of 85,213 of votes.
-  - Diana DeGette received 73.8% of the vote for a total of 272,892 of votes.
-  - Raymon Anthony Doane received 3.1% of the vote for a total of 11,806 of votes.
+ The candidate results were:
+   - Charles Casper Stockham received 23.0% of the vote for a total of 85,213 of votes.<br />
+   - Diana DeGette received 73.8% of the vote for a total of 272,892 of votes.<br />
+   - Raymon Anthony Doane received 3.1% of the vote for a total of 11,806 of votes.<br />
+     
 - The winner of the election was <br />
    **Diana DeGette , who received 73.8% of vote and 272,892 votes.<br />**
   
@@ -32,12 +33,13 @@ The analysis of the election shows that:
    - In Jefferson County 10.5% of the vote were cast (38,855 votes were cast).<br />
    - In Denver county 82.8% of the vote were cast (306,055 of votes were cast).<br />
    - In Arapahoe county 3.1% of the vote were cast (24,801 of votes  were cast).<br /><br />
-**Largest county turnover was Denver County with 82.8%, for a total of 306,055.<br />**  
+**The maximum number of votes were cast in  Denver County with 82.8% of total votes, for a total of 306,055 votes.<br />**  
  
 ## Election Summary
-     - The script can be modified to be able to .
-     - We can extend the same code to state level election(with more than 3 counties). 
-     - We can count the votes of different candidate in the same county.
+     - The script can be used as is for any number of candidates and counties.
+     - The script can be modified to determine the number of votes each candidate got from different counties.
+     - If the dataset had a column for the office for which the vote was cast, then we have to modify the script to extend analyse to different offices. 
+     
  
 ## Resources
 Date Source: elction_results.csv<br />
