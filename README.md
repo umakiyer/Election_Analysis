@@ -37,9 +37,9 @@ The analysis of the election shows that:
  
 ## Election Summary
      - The script can be used as is for any number of candidates and counties.
-     - The script can be modified to determine the number of votes each candidate got from different counties( by using nested for loop).
-     - If the dataset had a column for the office for which the vote was cast, then we have to modify the script( by using nested for loops)
-       to extend analyse to different offices. 
+     - The script can be modified to determine the number of votes each candidate got from different counties( using conditional loops).
+     - If the dataset had a column for the office for which the vote was cast, then we have to modify the script
+       to extend analyse to different offices.( using conditional loops)
      
  
 ## Resources
