@@ -15,7 +15,7 @@ winning_percentage = 0
 # Open the Election Data file
 with open(file_to_load) as election_data:
 
-    # Open the Electinon Alaysis txt filr to write
+    # Open the Electinon Analysis txt file to write
     files_to_save = os.path.join("analysis", "election_analysis.txt")
     # with open(files_to_save) as txt_file :
     File_reader = csv.reader(election_data)
