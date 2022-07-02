@@ -16,11 +16,14 @@ winning_percentage = 0
 with open(file_to_load) as election_data:
 
     # Open the Electinon Analysis txt file to write
-    files_to_save = os.path.join("analysis", "election_analysis.txt")
+    files_to_save = os.path.join("analysis", "election_analysis2.txt")
     # with open(files_to_save) as txt_file :
     File_reader = csv.reader(election_data)
+    # Read the header row & store it in a variable
     # Print row header
     header = next(File_reader)
+    print(header)
+
     # print each row in CSV file
     for row in File_reader:
         total_votes += 1
@@ -71,6 +74,7 @@ for candidate_name in candidate_votes:
             vote_percentage = float(votes)/float(total_votes) * 100
             candidate_results = (
                 f"{candidate_name} : {vote_percentage:.1f} % ({votes:,})\n")
+            print(candidate_results)
             txt_file.write(candidate_results)
         # Print the winning candidates' results to the terminal.
         winning_candidate_summary = (
